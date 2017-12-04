@@ -1,0 +1,6 @@
+@import url(http://cdn.rawgit.com/rtaibah/dubai-font-cdn/master/dubai-font.css);
+
+body {
+    font-family: 'Dubai-Light', sans-serif;
+    direction: rtl;
+}
