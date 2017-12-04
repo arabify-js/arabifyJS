@@ -42,6 +42,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'aref-ruqaa';
+    src:  url('fonts/aref-ruqaa.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .font-dubai-bold {
     font-family: 'Dubai-Bold', Helvetica, sans-serif;
     font-weight: normal;
@@ -67,7 +74,7 @@
 }
 
 body {
-    font-family: 'Dubai-Light', sans-serif !important;
+    font-family: 'aref-ruqaa', sans-serif !important;
     direction: rtl;
     padding-top: 20px;
     padding-bottom: 20px;
